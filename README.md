@@ -2,6 +2,7 @@
 
 ## Relevant Folders and/or Files
 -	Folder - Challenge
+    - Screenshots (charts are not showing up on github ipynb, so screenshots of charts are in this folder and shown below in Read Me)
 -	Crypto_clustering.ipynb
 -	Crypto_data.csv
 ## Project Overview
